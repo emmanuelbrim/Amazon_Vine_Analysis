@@ -14,6 +14,7 @@ The resources used for the project included;
 ## Results
 The analysis of the project involved the creation of a database on AWS and connecting it to pgAdmin so the local data could be stored on the cloud. 
 Using the Google colab notebook platform , pyspark enabled us to read in and clean the data on shoe reviews from s3 bucket, Amazon Reviews pds.
+
 The cleaning of data involved the droping all NaNs and filtering the original dataframe to include only total_votes greater than or equal to 20 and helpful votes greater or equal to 50% for its total_votes column and its helpful_votes column respectively. 
 The resulting Dataframe then served as the base for the analysis.
 Below is a snap shot of the code and image to read in the data file.
