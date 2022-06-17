@@ -33,21 +33,21 @@ From the tables the total Vine reviews(paid) was 22 and the non-Vine(unpaid) rev
 
 ![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/vine_frame.PNG)
 
-![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/total_vine.PNG)
+![]()
 
 ![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/nonvine_frame.PNG)
 
-![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/total_non_vine.PNG)
+![]()
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 To answer these questions both tables were filtered based on their star_rating. All reviews that had a 5-star rating were gropued to create a new data set and the count function used to measure the totals.
 The result was 13 vine reviews had 5-stars and 14439 non vine reviews had 5-stars.
 
-![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/5%20star%20reviews.PNG)
+![]()
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 From the analysis the percentage of Vine reviews and non-Vine reviews with 5 stars was 0.048 and 53.59 respectively. 
 
-![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/Percentages.PNG)
+![]()
 
