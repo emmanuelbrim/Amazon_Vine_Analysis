@@ -33,21 +33,27 @@ From the tables the total Vine reviews(paid) was 22 and the non-Vine(unpaid) rev
 
 ![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/vine_frame.PNG)
 
-![]()
+![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/total_vine.PNG)
 
 ![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/nonvine_frame.PNG)
 
-![]()
+![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/total_nonVine.PNG)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 To answer these questions both tables were filtered based on their star_rating. All reviews that had a 5-star rating were gropued to create a new data set and the count function used to measure the totals.
 The result was 13 vine reviews had 5-stars and 14439 non vine reviews had 5-stars.
 
-![]()
+![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/5%20star%20rating.PNG)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 From the analysis the percentage of Vine reviews and non-Vine reviews with 5 stars was 0.048 and 53.59 respectively. 
 
-![]()
+![](https://github.com/emmanuelbrim/Amazon_Vine_Analysis/blob/main/Resources/Vine%20percentages.PNG)
 
+## Summary 
+The results of the analysis show that 59.1 percent of reviews by Vine members belonged to the 5-star category as compared to 53 percent from non vine members.
+The number therefore indicates a slightly higher chance of a vendor getting a 5-star review if he belonged to the Vine program.
+However the variance between paid and unpaid 5-star reviews in the shoes dataset is not so significant to generalize the entire program and conclude that the is bias in the ratings of Vine clients.  
+Samples from other data sets could be drawn and their analysis can give statistical evidence to support or disprove the conclusion drawn from this analysis.
+We could deduce if vine members are influenced by the free products in giving 5-stars or are genuine responses. 
